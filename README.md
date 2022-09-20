@@ -1,2 +1,2 @@
-# java-dio-formacaoJava-contaBancariaTerminal
-Projeto pratico do modulo Java básico na formação "Desenvolvedor Java" da Digital Innovation One (DIO)
+# Formação Java Developer Digital Innovation One
+Repositório com os projetos práticos da formação "Desenvolvedor Java" ministrada na plataforma da DIO - Digital Innovation One
